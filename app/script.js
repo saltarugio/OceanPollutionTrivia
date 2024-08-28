@@ -54,7 +54,7 @@ let counter;
 let counterLine;
 let widthValue = 0;
 const shuffledQuestions = shuffle(questions).slice(0, 10);
-let questiion;
+
 
 const restart_quiz = result_box.querySelector(".buttons .restart");
 const quit_quiz = result_box.querySelector(".buttons .quit");
